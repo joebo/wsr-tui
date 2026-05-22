@@ -1,2 +1,2 @@
 # wsr_tui
-Wall Street Raider Text User Interface (TUI)
+Proof of Concept Wall Street Raider Text User Interface (TUI)
