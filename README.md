@@ -1,7 +1,7 @@
 # wsr_tui
 Proof of Concept Wall Street Raider Text User Interface (TUI)
 
-<img width="1080" height="608" alt="wsr-tui demo" src="https://github.com/user-attachments/assets/a445bd6c-aea2-4d35-b816-aab6df48fa2f" />
+<img width="1080" height="608" alt="wsr-tui demo" src="https://github.com/user-attachments/assets/426f8b11-0ca0-48b5-9587-14e4b1092f77" />
 
 # WSR TUI
 
